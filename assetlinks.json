@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.malakdigital.deeplink_cookbook",
+      "package_name": "com.malakdigital.deeplink_cookbook",
+      "sha256_cert_fingerprints":
+      ["5B:67:4C:7C:B6:91:98:F0:40:B8:73:AC:2F:84:46:9C:36:78:23:61:F4:19:95:2F:30:FF:96:B9:34:AB:46:65"]
+    }
+  }]
